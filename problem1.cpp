@@ -29,8 +29,8 @@ public:
     void selectionSort;
 
     //ADDITIONAL POINTS
-    void quickSort();
-    void insertionSort();
+    //void quickSort();
+    //void insertionSort();
 };
 int main(int argc, const char * argv[]) {
  List l;
